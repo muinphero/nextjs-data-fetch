@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 1250,
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.5,
+      "description": "Ergonomic wireless mouse with long battery life.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "price": 3500,
+      "category": "Electronics",
+      "stock": 15,
+      "rating": 4.7,
+      "description": "Noise-cancelling over-ear Bluetooth headphones.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 2800,
+      "category": "Footwear",
+      "stock": 40,
+      "rating": 4.3,
+      "description": "Lightweight and comfortable running shoes.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 5200,
+      "category": "Wearables",
+      "stock": 10,
+      "rating": 4.6,
+      "description": "Smartwatch with fitness tracking and notifications.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "price": 1800,
+      "category": "Accessories",
+      "stock": 30,
+      "rating": 4.2,
+      "description": "Durable backpack suitable for travel and daily use.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
